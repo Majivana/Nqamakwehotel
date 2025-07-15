@@ -1,0 +1,12 @@
+/ngqamakwe-luxury/
+├── css/
+├── js/
+├── images/
+│   ├── hero/
+│   ├── about/
+│   ├── services/
+│   ├── gallery/
+│   └── contact/
+├── assets/
+│   └── icons/
+└── videos/
